@@ -51,4 +51,4 @@ The failures above are not bugs in the code; they are well-known limitations of 
 
 ---
 
-**Links:** GitHub: [link] · Streamlit: [link]
+**Links:** GitHub: [https://github.com/sethapreung-web/cambodia-tourism-chatbot] · Streamlit: [https://cambodia-tourism-chatbot-9ajzkgi9ghr2myvelt8zbv.streamlit.app/]
